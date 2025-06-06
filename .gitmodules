@@ -1,0 +1,3 @@
+[submodule "reverse-engineering/Reverse-Engineering-Samples"]
+	path = reverse-engineering/Reverse-Engineering-Samples
+	url = https://github.com/PrajeetGuha/Reverse-Engineering-Samples
