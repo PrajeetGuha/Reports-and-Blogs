@@ -1,4 +1,4 @@
-# Malware-Analysis-Reports
+# Reports and Blogs
 
 ## Knowledge Blogs
 - [Learn How Browser Works](https://medium.com/@prajeetguha/learn-how-does-a-browser-work-ada3de6d2a00)
